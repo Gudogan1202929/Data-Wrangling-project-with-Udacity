@@ -1,0 +1,681 @@
+Name,Origin,Cylinders,Horsepower
+chevrolet chevelle malibu,USA,8,130
+buick skylark 320,USA,8,165
+plymouth satellite,USA,8,150
+amc rebel sst,USA,8,150
+ford torino,USA,8,140
+ford galaxie 500,USA,8,198
+chevrolet impala,USA,8,220
+plymouth fury iii,USA,8,215
+pontiac catalina,USA,8,225
+amc ambassador dpl,USA,8,190
+citroen ds-21 pallas,Europe,4,115
+chevrolet chevelle concours (sw),USA,8,165
+ford torino (sw),USA,8,153
+plymouth satellite (sw),USA,8,175
+amc rebel sst (sw),USA,8,175
+dodge challenger se,USA,8,170
+plymouth 'cuda 340,USA,8,160
+ford mustang boss 302,USA,8,140
+chevrolet monte carlo,USA,8,150
+buick estate wagon (sw),USA,8,225
+toyota corona mark ii,Japan,4,95
+plymouth duster,USA,6,95
+amc hornet,USA,6,97
+ford maverick,USA,6,85
+datsun pl510,Japan,4,88
+volkswagen 1131 deluxe sedan,Europe,4,46
+peugeot 504,Europe,4,87
+audi 100 ls,Europe,4,90
+saab 99e,Europe,4,95
+bmw 2002,Europe,4,113
+amc gremlin,USA,6,90
+ford f250,USA,8,215
+chevy c20,USA,8,200
+dodge d200,USA,8,210
+hi 1200d,USA,8,193
+chevrolet vega 2300,USA,4,90
+toyota corona,Japan,4,95
+ford pinto,USA,4,95
+volkswagen super beetle 117,Europe,4,48
+amc gremlin,USA,6,100
+plymouth satellite custom,USA,6,105
+chevrolet chevelle malibu,USA,6,100
+ford torino 500,USA,6,88
+amc matador,USA,6,100
+chevrolet impala,USA,8,165
+pontiac catalina brougham,USA,8,175
+ford galaxie 500,USA,8,153
+plymouth fury iii,USA,8,150
+dodge monaco (sw),USA,8,180
+ford country squire (sw),USA,8,170
+pontiac safari (sw),USA,8,175
+amc hornet sportabout (sw),USA,6,110
+chevrolet vega (sw),USA,4,72
+pontiac firebird,USA,6,100
+ford mustang,USA,6,88
+mercury capri 2000,USA,4,86
+opel 1900,Europe,4,90
+peugeot 304,Europe,4,70
+fiat 124b,Europe,4,76
+toyota corolla 1200,Japan,4,65
+datsun 1200,Japan,4,69
+volkswagen model 111,Europe,4,60
+plymouth cricket,USA,4,70
+toyota corona hardtop,Japan,4,95
+dodge colt hardtop,USA,4,80
+volkswagen type 3,Europe,4,54
+chevrolet vega,USA,4,90
+ford pinto runabout,USA,4,86
+pontiac catalina,USA,8,175
+amc ambassador sst,USA,8,150
+mercury marquis,USA,8,208
+buick lesabre custom,USA,8,155
+oldsmobile delta 88 royale,USA,8,160
+chrysler newport royal,USA,8,190
+mazda rx2 coupe,Japan,3,97
+amc matador (sw),USA,8,150
+chevrolet chevelle concours (sw),USA,8,130
+ford gran torino (sw),USA,8,140
+plymouth satellite custom (sw),USA,8,150
+volvo 145e (sw),Europe,4,112
+volkswagen 411 (sw),Europe,4,76
+peugeot 504 (sw),Europe,4,87
+renault 12 (sw),Europe,4,69
+ford pinto (sw),USA,4,86
+datsun 510 (sw),Japan,4,92
+toyouta corona mark ii (sw),Japan,4,97
+dodge colt (sw),USA,4,80
+toyota corolla 1600 (sw),Japan,4,88
+buick century 350,USA,8,175
+amc matador,USA,8,150
+chevrolet malibu,USA,8,145
+ford gran torino,USA,8,137
+dodge coronet custom,USA,8,150
+mercury marquis brougham,USA,8,198
+chevrolet caprice classic,USA,8,150
+ford ltd,USA,8,158
+plymouth fury gran sedan,USA,8,150
+chrysler new yorker brougham,USA,8,215
+buick electra 225 custom,USA,8,225
+amc ambassador brougham,USA,8,175
+plymouth valiant,USA,6,105
+chevrolet nova custom,USA,6,100
+amc hornet,USA,6,100
+ford maverick,USA,6,88
+volkswagen super beetle,Europe,4,46
+chevrolet impala,USA,8,150
+ford country,USA,8,167
+plymouth custom suburb,USA,8,170
+oldsmobile vista cruiser,USA,8,180
+toyota carina,Japan,4,88
+chevrolet vega,USA,4,72
+datsun 610,Japan,4,94
+maxda rx3,Japan,3,90
+ford pinto,USA,4,85
+mercury capri v6,USA,6,107
+fiat 124 sport coupe,Europe,4,90
+chevrolet monte carlo s,USA,8,145
+pontiac grand prix,USA,8,230
+fiat 128,Europe,4,49
+opel manta,Europe,4,75
+audi 100ls,Europe,4,91
+volvo 144ea,Europe,4,112
+dodge dart custom,USA,8,150
+saab 99le,Europe,4,110
+toyota mark ii,Japan,6,122
+oldsmobile omega,USA,8,180
+ford maverick,USA,6,95
+chevrolet nova,USA,6,100
+datsun b210,Japan,4,67
+ford pinto,USA,4,80
+chevrolet vega,USA,4,75
+chevrolet chevelle malibu classic,USA,6,100
+amc matador,USA,6,110
+plymouth satellite sebring,USA,6,105
+ford gran torino,USA,8,140
+buick century luxus (sw),USA,8,150
+dodge coronet custom (sw),USA,8,150
+audi fox,Europe,4,83
+volkswagen dasher,Europe,4,67
+opel manta,Europe,4,78
+toyota corona,Japan,4,52
+datsun 710,Japan,4,61
+dodge colt,USA,4,75
+fiat 128,Europe,4,75
+fiat 124 tc,Europe,4,75
+honda civic,Japan,4,97
+subaru,Japan,4,93
+fiat x1.9,Europe,4,67
+plymouth valiant custom,USA,6,95
+chevrolet nova,USA,6,105
+mercury monarch,USA,6,72
+ford maverick,USA,6,72
+pontiac catalina,USA,8,170
+chevrolet bel air,USA,8,145
+plymouth grand fury,USA,8,150
+ford ltd,USA,8,148
+buick century,USA,6,110
+chevroelt chevelle malibu,USA,6,105
+plymouth fury,USA,6,95
+buick skyhawk,USA,6,110
+chevrolet monza 2+2,USA,8,110
+ford mustang ii,USA,8,129
+toyota corolla,Japan,4,75
+ford pinto,USA,4,83
+pontiac astro,USA,4,78
+toyota corona,Japan,4,96
+volkswagen dasher,Europe,4,71
+datsun 710,Japan,4,97
+ford pinto,USA,6,97
+volkswagen rabbit,Europe,4,70
+amc pacer,USA,6,90
+audi 100ls,Europe,4,95
+peugeot 504,Europe,4,88
+volvo 244dl,Europe,4,98
+saab 99le,Europe,4,115
+honda civic cvcc,Japan,4,53
+fiat 131,Europe,4,86
+opel 1900,Europe,4,81
+capri ii,USA,4,92
+dodge colt,USA,4,79
+renault 12tl,Europe,4,83
+chevrolet chevelle malibu classic,USA,8,140
+dodge coronet brougham,USA,8,150
+amc matador,USA,8,120
+ford gran torino,USA,8,152
+plymouth valiant,USA,6,100
+ford maverick,USA,6,81
+amc hornet,USA,6,90
+chevrolet chevette,USA,4,52
+chevrolet woody,USA,4,60
+vw rabbit,Europe,4,70
+honda civic,Japan,4,53
+dodge aspen se,USA,6,100
+ford granada ghia,USA,6,78
+pontiac ventura sj,USA,6,110
+amc pacer d/l,USA,6,95
+volkswagen rabbit,Europe,4,71
+datsun b-210,Japan,4,70
+ford pinto,USA,4,72
+volvo 245,Europe,4,102
+plymouth volare premier v8,USA,8,150
+toyota mark ii,Japan,6,108
+mercedes-benz 280s,Europe,6,120
+cadillac seville,USA,8,180
+chevy c10,USA,8,145
+ford f108,USA,8,130
+dodge d100,USA,8,150
+honda Accelerationord cvcc,Japan,4,68
+buick opel isuzu deluxe,USA,4,80
+renault 5 gtl,Europe,4,58
+plymouth arrow gs,USA,4,96
+datsun f-10 hatchback,Japan,4,70
+chevrolet caprice classic,USA,8,145
+oldsmobile cutlass supreme,USA,8,110
+dodge monaco brougham,USA,8,145
+mercury cougar brougham,USA,8,130
+chevrolet concours,USA,6,110
+buick skylark,USA,6,105
+plymouth volare custom,USA,6,100
+ford granada,USA,6,98
+pontiac grand prix lj,USA,8,180
+chevrolet monte carlo landau,USA,8,170
+chrysler cordoba,USA,8,190
+ford thunderbird,USA,8,149
+volkswagen rabbit custom,Europe,4,78
+pontiac sunbird coupe,USA,4,88
+toyota corolla liftback,Japan,4,75
+ford mustang ii 2+2,USA,4,89
+chevrolet chevette,USA,4,63
+dodge colt m/m,USA,4,83
+subaru dl,Japan,4,67
+volkswagen dasher,Europe,4,78
+datsun 810,Japan,6,97
+bmw 320i,Europe,4,110
+mazda rx-4,Japan,3,110
+volkswagen rabbit custom diesel,Europe,4,48
+ford fiesta,USA,4,66
+mazda glc deluxe,Japan,4,52
+datsun b210 gx,Japan,4,70
+honda civic cvcc,Japan,4,60
+oldsmobile cutlass salon brougham,USA,8,110
+dodge diplomat,USA,8,140
+mercury monarch ghia,USA,8,139
+pontiac phoenix lj,USA,6,105
+chevrolet malibu,USA,6,95
+ford fairmont (auto),USA,6,85
+ford fairmont (man),USA,4,88
+plymouth volare,USA,6,100
+amc concord,USA,6,90
+buick century special,USA,6,105
+mercury zephyr,USA,6,85
+dodge aspen,USA,6,110
+amc concord d/l,USA,6,120
+chevrolet monte carlo landau,USA,8,145
+buick regal sport coupe (turbo),USA,6,165
+ford futura,USA,8,139
+dodge magnum xe,USA,8,140
+chevrolet chevette,USA,4,68
+datsun 510,Japan,4,97
+dodge omni,USA,4,75
+toyota celica gt liftback,Japan,4,95
+plymouth sapporo,USA,4,105
+oldsmobile starfire sx,USA,4,85
+datsun 200-sx,Japan,4,97
+audi 5000,Europe,5,103
+volvo 264gl,Europe,6,125
+saab 99gle,Europe,4,115
+peugeot 604sl,Europe,6,133
+volkswagen scirocco,Europe,4,71
+honda Accelerationord lx,Japan,4,68
+pontiac lemans v6,USA,6,115
+mercury zephyr 6,USA,6,85
+ford fairmont 4,USA,4,88
+amc concord dl 6,USA,6,90
+dodge aspen 6,USA,6,110
+chevrolet caprice classic,USA,8,130
+ford ltd landau,USA,8,129
+mercury grand marquis,USA,8,138
+dodge st. regis,USA,8,135
+buick estate wagon (sw),USA,8,155
+ford country squire (sw),USA,8,142
+chevrolet malibu classic (sw),USA,8,125
+chrysler lebaron town @ country (sw),USA,8,150
+vw rabbit custom,Europe,4,71
+maxda glc deluxe,Japan,4,65
+dodge colt hatchback custom,USA,4,80
+amc spirit dl,USA,4,80
+mercedes benz 300d,Europe,5,77
+cadillac eldorado,USA,8,125
+peugeot 504,Europe,4,71
+oldsmobile cutlass salon brougham,USA,8,90
+plymouth horizon,USA,4,70
+plymouth horizon tc3,USA,4,70
+datsun 210,Japan,4,65
+fiat strada custom,Europe,4,69
+buick skylark limited,USA,4,90
+chevrolet citation,USA,6,115
+oldsmobile omega brougham,USA,6,115
+pontiac phoenix,USA,4,90
+vw rabbit,Europe,4,76
+toyota corolla tercel,Japan,4,60
+chevrolet chevette,USA,4,70
+datsun 310,Japan,4,65
+chevrolet citation,USA,4,90
+ford fairmont,USA,4,88
+amc concord,USA,4,90
+dodge aspen,USA,6,90
+audi 4000,Europe,4,78
+toyota corona liftback,Japan,4,90
+mazda 626,Japan,4,75
+datsun 510 hatchback,Japan,4,92
+mazda glc,Japan,4,65
+dodge colt,USA,4,105
+vw rabbit c (diesel),Europe,4,48
+vw dasher (diesel),Europe,4,48
+audi 5000s (diesel),Europe,5,67
+mercedes-benz 240d,Europe,4,67
+honda civic 1500 gl,Japan,4,67
+renault lecar deluxe,Europe,4,95
+vokswagen rabbit,Europe,4,62
+datsun 280-zx,Japan,6,132
+mazda rx-7 gs,Japan,3,100
+triumph tr7 coupe,Europe,4,88
+ford mustang cobra,USA,4,95
+honda Accelerationord,Japan,4,72
+plymouth reliant,USA,4,84
+buick skylark,USA,4,84
+dodge aries wagon (sw),USA,4,92
+chevrolet citation,USA,6,110
+toyota starlet,Japan,4,58
+plymouth champ,USA,4,64
+honda civic 1300,Japan,4,60
+subaru,Japan,4,67
+toyota tercel,Japan,4,62
+mazda glc 4,Japan,4,68
+plymouth horizon 4,USA,4,63
+ford escort 4w,USA,4,65
+ford escort 2h,USA,4,65
+volkswagen jetta,Europe,4,74
+renault 18i,Europe,4,95
+honda prelude,Japan,4,75
+datsun 200sx,Japan,4,100
+mazda 626,Japan,4,74
+peugeot 505s turbo diesel,Europe,4,80
+saab 900s,Europe,4,110
+volvo diesel,Europe,6,76
+toyota cressida,Japan,6,116
+datsun 810 maxima,Japan,6,120
+oldsmobile cutlass ls,USA,8,105
+ford granada gl,USA,6,88
+chrysler lebaron salon,USA,6,85
+chevrolet cavalier,USA,4,88
+chevrolet cavalier wagon,USA,4,88
+chevrolet cavalier 2-door,USA,4,88
+pontiac j2000 se hatchback,USA,4,85
+dodge aries se,USA,4,84
+ford fairmont futura,USA,4,92
+amc concord dl,USA,4,95
+volkswagen rabbit l,Europe,4,74
+mazda glc custom l,Japan,4,68
+mazda glc custom,Japan,4,68
+plymouth horizon miser,USA,4,63
+mercury lynx l,USA,4,70
+nissan stanza xe,Japan,4,88
+honda Accelerationord,Japan,4,75
+toyota corolla,Japan,4,70
+honda civic,Japan,4,67
+honda civic (auto),Japan,4,67
+datsun 310 gx,Japan,4,67
+buick century limited,USA,6,110
+oldsmobile cutlass ciera (diesel),USA,6,85
+chrysler lebaron medallion,USA,4,92
+ford granada l,USA,6,112
+toyota celica gt,Japan,4,96
+dodge charger 2.2,USA,4,84
+chevrolet camaro,USA,4,90
+ford mustang gl,USA,4,86
+vw pickup,Europe,4,52
+dodge rampage,USA,4,84
+ford ranger,USA,4,79
+chevy s-10,USA,4,82
+Acura MDX,Asia,6,305
+Acura RDX,Asia,4,240
+Acura RL,Asia,6,300
+Acura RSX,Asia,4,201
+Acura TL,Asia,6,280
+Acura TSX,Asia,4,205
+Audi A3,Europe,4,200
+Audi A4,Europe,6,255
+Audi A5,Europe,6,265
+Audi A6,Europe,6,255
+Audi A8,Europe,8,330
+Audi Q7,Europe,8,350
+Audi TT,Europe,4,225
+BMW 1 Series,Europe,6,300
+BMW 3 Series,Europe,6,230
+BMW 5 Series,Europe,6,300
+BMW 6 Series,Europe,8,360
+BMW 7 Series,Europe,8,360
+BMW X3,Europe,6,260
+BMW X5,Europe,6,260
+BMW X6,Europe,6,300
+BMW Z4,Europe,6,225
+Buick Enclave,USA,6,275
+Buick LaCrosse,USA,6,200
+Buick Lucerne,USA,8,275
+Buick Rainier,USA,6,275
+Buick Rendezvous,USA,6,242
+Buick Terraza,USA,6,201
+Cadillac CTS,USA,6,263
+Cadillac DTS,USA,8,275
+Cadillac Escalade,USA,8,403
+Cadillac SRX,USA,6,255
+Cadillac STS,USA,6,302
+Cadillac XLR,USA,8,320
+Chevrolet Avalanche,USA,8,310
+Chevrolet Aveo,USA,4,103
+Chevrolet Cobalt,USA,4,148
+Chevrolet Colorado,USA,5,220
+Chevrolet Corvette,USA,8,505
+Chevrolet Equinox,USA,6,185
+Chevrolet HHR,USA,4,172
+Chevrolet Impala,USA,6,242
+Chevrolet Malibu,USA,4,169
+Chevrolet Malibu Hybrid,USA,4,164
+Chevrolet Silverado 1500,USA,6,295
+Chevrolet Suburban,USA,8,320
+Chevrolet Tahoe,USA,8,320
+Chevrolet TrailBlazer,USA,6,291
+Chevrolet Uplander,USA,6,200
+Chrysler 300,USA,8,340
+Chrysler Aspen,USA,8,340
+Chrysler Crossfire,USA,6,215
+Chrysler Pacifica,USA,6,253
+Chrysler PT Cruiser,USA,4,180
+Chrysler Sebring,USA,6,189
+Chrysler Town & Country,USA,6,251
+Dodge Avenger,USA,6,235
+Dodge Caliber,USA,4,158
+Dodge Challenger,USA,6,250
+Dodge Charger,USA,8,340
+Dodge Dakota,USA,8,230
+Dodge Durango,USA,8,335
+Dodge Grand Caravan,USA,6,197
+Dodge Journey,USA,6,235
+Dodge Magnum,USA,6,250
+Dodge Nitro,USA,6,210
+Dodge Ram 1500,USA,8,345
+Dodge Viper,USA,10,510
+Ford Crown Victoria,USA,6,265
+Ford Edge,USA,6,265
+Ford Escape,USA,6,200
+Ford Expedition,USA,8,300
+Ford Explorer,USA,6,210
+Ford Explorer Sport Trac,USA,6,210
+Ford F-150,USA,8,300
+Ford F-250,USA,8,350
+Ford Flex,USA,6,262
+Ford Focus,USA,4,132
+Ford Freestar,USA,6,203
+Ford Freestyle,USA,6,221
+Ford Fusion,USA,6,221
+Ford Mustang,USA,6,210
+Ford Ranger,USA,6,201
+Ford Taurus,USA,6,263
+Ford Taurus X,USA,6,263
+Ford Thunderbird,USA,6,275
+GMC Acadia,USA,6,263
+GMC Canyon,USA,6,242
+GMC Envoy,USA,6,285
+GMC Sierra 1500,USA,6,315
+GMC Yukon,USA,6,320
+GMC Yukon XL,USA,6,244
+Honda Accord,Asia,6,268
+Honda Civic,Asia,4,113
+Honda Civic Hybrid,Asia,4,110
+Honda CR-V,Asia,4,166
+Honda Element,Asia,4,166
+Honda Fit,Asia,4,109
+Honda Insight,Asia,3,80
+Honda Odyssey,Asia,6,255
+Honda Pilot,Asia,6,250
+Honda Ridgeline,Asia,6,247
+Honda S2000,Asia,4,240
+Hummer H2,USA,8,393
+Hummer H3,USA,5,220
+Hyundai Accent,USA,4,110
+Hyundai Azera,Asia,6,263
+Hyundai Elantra,Asia,4,138
+Hyundai Entourage,Asia,4,250
+Hyundai Genesis,Asia,6,264
+Hyundai Santa Fe,Asia,6,242
+Hyundai Sonota,Asia,6,249
+Hyundai Tiburon,Asia,6,170
+Hyundai Tucson,Asia,6,173
+Hyundai Veracruz,Asia,6,260
+Infiniti EX,Asia,6,297
+Infiniti FX,Asia,6,280
+Infiniti G35,Asia,6,306
+Infiniti I35,Asia,6,255
+Infiniti M35/M45,Asia,6,280
+Infiniti QX,Asia,8,275
+Isuzu Ascender,Asia,6,315
+Isuzu i-Series,Asia,5,242
+Jaguar X-Type,Europe,6,227
+Jaguar XF,Europe,8,300
+Jaguar XJ,Europe,8,294
+Jaguar XK,Europe,8,300
+Jeep Commander,USA,8,330
+Jeep Compass,USA,4,172
+Jeep Grand Cherokee,USA,8,305
+Jeep Liberty,USA,6,210
+Jeep Patriot,USA,4,172
+Jeep Wrangler,USA,6,205
+Kia Amanti,Asia,6,264
+Kia Borrego,Asia,6,262
+Kia Optima,Asia,6,185
+Kia Rio,Asia,4,110
+Kia Rondo,Asia,6,182
+Kia Sedona,Asia,6,244
+Kia Sorento,Asia,6,242
+Kia Spectra,Asia,4,138
+Kia Sportage,Asia,6,173
+Land Rover Freelander,USA,6,174
+Land Rover LR2,USA,6,230
+Land Rover LR3,USA,8,300
+Land Rover Range Rover,USA,8,282
+Land Rover Range Rover Sport,USA,8,300
+Lexus ES,Asia,6,272
+Lexus GS,Asia,6,245
+Lexus GX,Asia,8,235
+Lexus IS,Asia,6,204
+Lexus LS,Asia,8,380
+Lexus LX,Asia,8,235
+Lexus RX,Asia,6,270
+Lexus RX Hybrid,Asia,6,268
+Lexus SC,Asia,8,288
+Lincoln Aviator,USA,8,302
+Lincoln LS,USA,6,232
+Lincoln Mark LT,USA,8,300
+Lincoln MKS,USA,6,273
+Lincoln MKX,USA,6,265
+Lincoln MKZ,USA,6,263
+Lincoln Navigator,USA,8,300
+Lincoln Town Car,USA,8,239
+Lincoln Zephyr,USA,6,221
+Lotus Elise,Europe,4,190
+Mazda B-Series,Asia,6,148
+Mazda CX-7,Asia,4,244
+Mazda CX-9,Asia,6,273
+Mazda MPV,Asia,6,200
+Mazda MX-5 Miata,Asia,4,170
+Mazda RX-8,Asia,1,238
+MazdaSpeed3,Asia,4,263
+Mazda Tribute,Asia,1,200
+Mazda3,Asia,4,160
+Mazda5,Asia,4,157
+Mazda6,Asia,6,272
+Mercedes-Benz C-Class,Europe,6,228
+Mercedes-Benz CLK,Europe,6,268
+Mercedes-Benz CLS,Europe,8,302
+Mercedes-Benz E-Class,Europe,6,268
+Mercedes-Benz GL-Class,Europe,8,335
+Mercedes-Benz M-Class,Europe,6,268
+Mercedes-Benz R-Class,Europe,6,268
+Mercedes-Benz S-Class,Europe,8,382
+Mercedes-Benz SL,Europe,8,382
+Mercedes-Benz SLK,Europe,6,268
+Mercury Grand Marquis,USA,8,239
+Mercury Mariner,USA,8,200
+Mercury Milan,USA,4,221
+Mercury Montego,USA,6,203
+Mercury Monterey,USA,6,201
+Mercury Mountaineer,USA,4,239
+Mercury Sable,USA,4,263
+Mini Cooper,Europe,4,118
+Mitsubishi Eclipse,Asia,6,260
+Mitsubishi Endeavor,Asia,6,215
+Mitsubishi Galant,Asia,6,230
+Mitsubishi Lancer,Asia,4,152
+Mitsubishi Montero,Asia,6,215
+Mitsubishi Outlander,Asia,6,220
+Mitsubishi Raider,Asia,8,230
+Nissan 350Z,Asia,6,287
+Nissan Altima,Asia,6,270
+Nissan Armada,Asia,8,317
+Nissan Frontier,Asia,6,261
+Nissan GT-R,Asia,6,480
+Nissan Maxima,Asia,6,290
+Nissan Murano,Asia,6,265
+Nissan Pathfinder,Asia,6,270
+Nissan Quest,Asia,6,235
+Nissan Rogue,Asia,4,170
+Nissan Sentra,Asia,4,140
+Nissan Titan,Asia,8,317
+Nissan Versa,Asia,4,122
+Nissan Xterra,Asia,6,261
+Pontiac Aztek,USA,6,185
+Pontiac Bonneville,USA,6,205
+Pontiac G5,USA,4,173
+Pontiac G6,USA,6,224
+Pontiac G8,USA,6,361
+Pontiac Grand Prix,USA,6,200
+Pontiac GTO,USA,8,350
+Pontiac Montana,USA,6,200
+Pontiac Solstice,USA,4,177
+Pontiac Torrent,USA,4,126
+Pontiac Vibe,USA,4,130
+Porsche 911,Europe,6,355
+Porsche Boxster,Europe,6,240
+Porsche Cayenne,Europe,8,385
+Porsche Cayman,Europe,6,295
+Saab 9-2X,Europe,4,173
+Saab 9-3,Europe,4,210
+Saab 9-5,Europe,4,260
+Saab 9-7X,Europe,8,300
+Saturn Astra,USA,4,138
+Saturn Aura,USA,4,169
+Saturn Ion,USA,4,140
+Saturn Outlook,USA,6,275
+Saturn Relay,USA,6,200
+Saturn Sky,USA,4,260
+Saturn Vue,USA,6,257
+Scion tC,Asia,4,160
+Scion xA,Asia,4,108
+Scion xB,Asia,4,158
+Scion xD,Asia,4,128
+Smart ForTwo,Europe,3,71
+Subaru B9 Tribeca,Asia,6,250
+Subaru Baja,Asia,4,165
+Subaru Forester,Asia,4,224
+Subaru Impreza,Asia,4,170
+Subaru Legacy,Asia,4,250
+Subaru Outback,Asia,6,250
+Subaru Tribeca,Asia,6,256
+Suzuki Aerio,Asia,4,145
+Suzuki Forenza,Asia,4,126
+Suzuki Grand Vitara,Asia,6,185
+Suzuki SX4,Asia,4,143
+Suzuki Verona,Asia,4,155
+Suzuki XL-7,Asia,6,252
+Toyota 4Runner,Asia,6,239
+Toyota Avalon,Asia,6,280
+Toyota Camry,Asia,6,268
+Toyota Camry Hybrid,Asia,4,187
+Toyota Camry Solara,Asia,6,225
+Toyota Celica,Asia,4,180
+Toyota Corolla,Asia,4,132
+Toyota FJ Cruiser,Asia,6,239
+Toyota Highlander,Asia,6,270
+Toyota Highlander Hybrid,Asia,6,270
+Toyota Land Cruiser,Asia,8,381
+Toyota Matrix,Asia,4,158
+Toyota MR2,Asia,4,138
+Toyota Prius,Asia,4,110
+Toyota RAV4,Asia,6,269
+Toyota Sequoia,Asia,8,381
+Toyota Sienna,Asia,6,266
+Toyota Tacoma,Asia,6,239
+Toyota Tundra,Asia,8,381
+Toyota Yaris,Asia,4,106
+Volkswagen Eos,Europe,4,200
+Volkswagen Golf,Europe,6,200
+Volkswagen GTI,Europe,4,200
+Volkswagen Jetta,Europe,5,150
+Volkswagen New Beetle,Europe,4,150
+Volkswagen Passat,Europe,4,200
+Volkswagen Phaeton,Europe,8,335
+Volkswagen R32,Europe,6,250
+Volkswagen Rabbit,Europe,5,170
+Volkswagen Tiguan,Europe,4,200
+Volkswagen Touareg 2,Europe,6,280
+Volvo C30,Europe,5,227
+Volvo C70,Europe,5,227
+Volvo S40,Europe,5,168
+Volvo S60,Europe,5,208
+Volvo S80,Europe,6,235
+Volvo V50,Europe,6,168
+Volvo V70/XC70,Europe,6,235
+Volvo XC90,Europe,8,311
