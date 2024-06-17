@@ -11,8 +11,10 @@ This project is a comprehensive data analysis endeavor completed as part of the 
 In this project, I aim to analyze various attributes of cars, including fuel efficiency, engine size, horsepower, and other specifications. Specifically, I will investigate trends and correlations among these attributes to understand what factors influence car performance and efficiency. To accomplish this, I will wrangle datasets from multiple sources.
 
 #### 1.2. Data Collection Methods
-I gathered the car dataset using different methods:
-1. **Car Specifications Dataset**: Downloaded manually from a reputable online dataset repository.
+I gathered the car dataset using different methods (you can see both of datasets referance in the jupyter notebook):
+1. **Car Specifications Dataset**: Downloaded manually from a reputable online dataset repository(kaggle).
+2. **Car Specifications Dataset**: called from API as a json.
+
 
 This dataset was chosen due to its comprehensive coverage of various car attributes and relevance to the research question.
 
@@ -48,18 +50,11 @@ Using the cleaned data, I explored the research question: "What factors influenc
 #### 5.2. Reflection
 Given more time, I would delve deeper into additional data quality and structural issues, such as exploring outliers and potential confounding variables. Further, I would expand the analysis to include other car attributes and explore their impact on performance and efficiency.
 
-## Project Files
-- **data_gathering.ipynb**: Jupyter Notebook documenting the data gathering process.
-- **data_assessment.ipynb**: Jupyter Notebook for assessing data quality and structure.
-- **data_cleaning.ipynb**: Jupyter Notebook detailing the data cleaning steps.
-- **data_analysis.ipynb**: Jupyter Notebook for analyzing the cleaned data and answering the research question.
-- **data/**: Directory containing the raw and cleaned datasets.
-
 ## Getting Started
 To run the project on your local machine, ensure you have the following software installed:
 - Python 3.x
 - Jupyter Notebook
-- Pandas, NumPy, Matplotlib, and other necessary Python packages (see requirements.txt for details)
+- Pandas, NumPy, Matplotlib, and other necessary Python packages
 
 Clone the repository and open the Jupyter Notebooks to explore the project steps in detail.
 
